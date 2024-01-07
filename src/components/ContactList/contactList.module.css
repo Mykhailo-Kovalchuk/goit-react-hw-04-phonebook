@@ -1,0 +1,40 @@
+.contactList {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  gap: 20px;
+  margin: 0 auto;
+}
+
+.contactListItem {
+  font-size: 26px;
+  border-radius: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.contactListItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contactListText {
+  font-weight: 400;
+  margin: 0;
+}
+
+.contactListBtnDelete {
+  border: none;
+  background-color: darkgray;
+  width: 200px;
+  font-size: 24px;
+  font-weight: 300;
+  top: 0;
+  margin: 0 auto;
+  border-radius: 5px;
+}

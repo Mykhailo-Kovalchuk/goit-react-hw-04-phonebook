@@ -1,0 +1,13 @@
+.filterText {
+  font-weight: 400px;
+  font-size: 26px;
+  margin: 0;
+}
+
+.filterInput {
+  margin: 15px;
+  width: 250px;
+  height: 36px;
+  border: 1px solid black;
+  border-radius: 5px;
+}

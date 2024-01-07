@@ -1,0 +1,35 @@
+.contactForm {
+  border: 1px solid black;
+  width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 10px 0;
+}
+.formTitle {
+  margin: 0 auto;
+}
+.formLabel {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  gap: 15px;
+}
+.contactFormInput {
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.formButton {
+  padding: 10px;
+  margin: 0 auto;
+  width: 350px;
+  border-radius: 10px;
+  border: none;
+  background-color: darkgray;
+  font-size: 20px;
+}
